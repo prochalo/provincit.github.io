@@ -2,3 +2,4 @@ title: Chalothorn
 description: Chalothorn page.
 theme: jekyll-theme-cayman
 show_downloads: true
+footer: false
