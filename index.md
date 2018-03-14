@@ -2,24 +2,24 @@
 layout: default
 ---
 
-## Welcome to GitHub Pages
+## Welcome to my pages.
 
 You can use the [editor on GitHub](https://github.com/provincit/provincit.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Self-Made Websites
+## Self-Made Websites
 
-### Works using Python
+## Works using Python
 
 [Machine Learning projects using UCI Datasets](model-for-uci)
 
+## Fundamental for Python Machine Learning
 
 [Basic Scikit-learn](scikit-basic)
 [Basic Tensorflow](tensorflow-basic)
 [Basic Keras](keras-basic)
 
-### Works using Scala
+## Works using Scala
 
 
 
