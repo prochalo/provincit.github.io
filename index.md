@@ -7,14 +7,14 @@ layout: default
 Last Update: 3/14/2018
 
 
-## Self-Made Websites
+### Self-Made Websites
 
 ### Works using Python
 
 - [Machine Learning projects using UCI Datasets](model-for-uci)
 - [Deep Learning projects](deep-learning)
 
-## Fundamental for Python Machine Learning
+#### Fundamental for Python Machine Learning
 
 - [Basic Scikit-learn](scikit-basic)
 - [Basic Tensorflow](tensorflow-basic)
