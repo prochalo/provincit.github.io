@@ -12,7 +12,7 @@ You can use the [editor on GitHub](https://github.com/provincit/provincit.github
 ### Works using Python
 
 - [Machine Learning projects using UCI Datasets](model-for-uci)
-- [Deep Learning]
+- [Deep Learning projects](deep-learning)
 
 ## Fundamental for Python Machine Learning
 
