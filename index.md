@@ -2,9 +2,9 @@
 layout: default
 ---
 
-## Welcome to my pages.
+## Welcome to my pages. (Maintenance Mode)
 
-You can use the [editor on GitHub](https://github.com/provincit/provincit.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Last Update: 3/14/2018
 
 
 ## Self-Made Websites
