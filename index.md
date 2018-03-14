@@ -9,20 +9,22 @@ You can use the [editor on GitHub](https://github.com/provincit/provincit.github
 
 ## Self-Made Websites
 
-## Works using Python
+### Works using Python
 
-[Machine Learning projects using UCI Datasets](model-for-uci)
+- [Machine Learning projects using UCI Datasets](model-for-uci)
+- [Deep Learning]
 
 ## Fundamental for Python Machine Learning
 
-[Basic Scikit-learn](scikit-basic)
-[Basic Tensorflow](tensorflow-basic)
-[Basic Keras](keras-basic)
-
-## Works using Scala
+- [Basic Scikit-learn](scikit-basic)
+- [Basic Tensorflow](tensorflow-basic)
+- [Basic Keras](keras-basic)
 
 
+### Works using Scala
 
+
+### D3.JS
 
 ### Markdown
 
