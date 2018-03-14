@@ -15,9 +15,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [Machine Learning projects using UCI Datasets](model-for-uci)
 
 
-
-[Basic with Tensorflow](tensorflow-basic)
-
+[Basic Scikit-learn](scikit-basic)
+[Basic Tensorflow](tensorflow-basic)
+[Basic Keras](keras-basic)
 
 ### Works using Scala
 
