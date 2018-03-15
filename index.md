@@ -21,7 +21,7 @@ Last Update: 3/14/2018
 - [Basic Keras](keras-basic)
 
 
-### Works using Scala
+### Works using Scala (Parallel Programming)
 
 
 ### D3.JS
