@@ -50,4 +50,4 @@ So all methods below can be applied to most major deep learning architectures
 
 ### Contact me?
 
-Having trouble or question with Pages? Please contact me via LinkedIn
+Having trouble or question with Pages? Please contact me via [LinkedIn](https://www.linkedin.com/in/chalothorn-chavalitchevinkul-518671141/)
