@@ -13,6 +13,7 @@ Last Update: 3/14/2018
 
 - [Machine Learning projects using UCI Datasets](model-for-uci)
 - [Deep Learning projects](deep-learning)
+- [Using MNIST Dataset](deep-learning)
 
 #### Fundamental for Python Machine Learning
 
