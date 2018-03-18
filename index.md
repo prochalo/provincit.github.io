@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome to my pages. (Maintenance Mode)
 
-Last Update: 3/14/2018
+Last Update: 3/19/2018
 
 
 ### Self-Made Websites
@@ -14,6 +14,13 @@ Last Update: 3/14/2018
 - [Machine Learning projects using UCI Datasets](model-for-uci)
 - [Deep Learning projects](deep-learning)
 - [Using MNIST Dataset](deep-learning)
+
+
+#### Interesting academics papers
+- Latent Dirichlet Allocation (2003)
+- On discriminative vs. generative classifiers: A comparison of logistic regression and naive bayes (2003)
+- Long short-term memory (1997)
+- Multilayer feedforward networks with a nonpolynomial activation function can approximate any function (1993)
 
 #### Fundamental for Python Machine Learning
 
