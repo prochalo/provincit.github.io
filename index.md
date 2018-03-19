@@ -14,7 +14,7 @@ Last Update: 3/19/2018
 - [Machine Learning projects using UCI Datasets](model-for-uci)
 - [Deep Learning projects](deep-learning)
 - [Using MNIST Dataset](deep-learning)
-- [Government Open Data Thailand (EDA)]
+- [Government Open Data Thailand (EDA)](model-for-uci)
 
 #### Interesting academics papers
 - Latent Dirichlet Allocation (2003)
