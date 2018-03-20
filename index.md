@@ -34,9 +34,14 @@ Last Update: 3/19/2018
 
 ### D3.JS
 
-### Deep Learning Methods
-- Xavier Initialization
 
+
+#### Deep Learning Optimization
+- Xavier Initialization
+- L2 Regularization VS Dropout
+
+
+### Deep Learning Methods
 There is an abundant amount of great knowledge about deep learning I have learned via studying, self-learning and research.
 So all methods below can be applied to most major deep learning architectures
 
