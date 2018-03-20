@@ -35,6 +35,7 @@ Last Update: 3/19/2018
 ### D3.JS
 
 ### Deep Learning Methods
+- Xavier Initialization
 
 There is an abundant amount of great knowledge about deep learning I have learned via studying, self-learning and research.
 So all methods below can be applied to most major deep learning architectures
