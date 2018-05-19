@@ -11,10 +11,31 @@ Last Update: 3/19/2018
 
 ### Works using Python
 
-- #### [Machine Learning projects using UCI Datasets](model-for-uci)
-- [Deep Learning projects](deep-learning)
-- [Using MNIST Dataset](deep-learning)
-- [Government Open Data Thailand (EDA)](model-for-uci)
+#### [Machine Learning projects using UCI Datasets]
+- Iris Species
+- Census Income
+- Abalone
+- News Aggregator
+- Household Electric Power Consumption
+- Breast Cancer Wisconsin (Diagnostic)
+- Glass Classification
+- Human Activity Recognition with Smartphones
+- SMS Spam Collection
+- German Credit Risk
+- Auto-mpg
+- Bank Marketing
+- Wine Data Set
+- ISTANBUL STOCK EXCHANGE
+- Horse Colic
+- Zoo Data Set
+- default of credit card clients
+- Mushroom Data Set
+- Wine Quality
+- Forest Cover Type
+
+#### [Deep Learning projects](deep-learning)
+#### [Using MNIST Dataset](deep-learning)
+#### [Government Open Data Thailand (EDA)](model-for-uci)
 
 #### Interesting academics papers
 - Latent Dirichlet Allocation (2003)
