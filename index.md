@@ -11,7 +11,7 @@ Last Update: 3/19/2018
 
 ### Works using Python
 
-#### [Machine Learning projects using UCI Datasets](uci)
+#### [Machine Learning projects using UCI Datasets](https://github.com/provincit/uci-work)
 - Iris Species
 - Census Income
 - Abalone
