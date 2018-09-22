@@ -7,8 +7,6 @@ layout: default
 Last Update: 3/19/2018
 
 
-### Self-Made Websites
-
 ### Works using Python
 
 #### [Machine Learning projects using UCI Datasets](https://github.com/provincit/uci-work)
@@ -32,30 +30,14 @@ Last Update: 3/19/2018
 - Mushroom Data Set
 - Wine Quality
 - Forest Cover Type
-
-#### [Deep Learning projects](deep-learning)
-#### [Using MNIST Dataset](deep-learning)
 #### [Government Open Data Thailand (EDA)](model-for-uci)
 
-#### Interesting academics papers
-- Latent Dirichlet Allocation (2003)
-- On discriminative vs. generative classifiers: A comparison of logistic regression and naive bayes (2003)
-- Long short-term memory (1997)
-- Multilayer feedforward networks with a nonpolynomial activation function can approximate any function (1993)
+#### [NLP](model-for-uci)
 
-#### Fundamental for Python Machine Learning
-
-- [Basic Scikit-learn](scikit-basic)
-- [Basic Tensorflow](tensorflow-basic)
-- [Basic Keras](keras-basic)
+#### [LSTM](model-for-uci)
 
 
 ### Works using Scala (Parallel Programming)
-
-
-### D3.JS
-
-
 
 #### Deep Learning Optimization
 - Xavier Initialization
